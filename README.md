@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a career in tech.
 - 🌱 I’m currently learning ... HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ... beginner projects.
-- 📫 How to reach me ... DM me on twitter. Same username there.
+- 📫 How to reach me ... DM me here or on twitter. Same username on Twitter.
 
 <!---
 nexusartemis/nexusartemis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
